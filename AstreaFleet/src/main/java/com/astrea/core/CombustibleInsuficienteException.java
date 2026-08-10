@@ -1,6 +1,6 @@
-package core;
+package com.astrea.core;
 
-class CombustibleInsuficienteException {
+class CombustibleInsuficienteException extends AstreaException{
     public CombustibleInsuficienteException(String mensaje){
         super(mensaje);
     }
