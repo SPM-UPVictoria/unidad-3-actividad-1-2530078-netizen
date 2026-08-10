@@ -162,5 +162,5 @@ public class NaveEspacialTest {
         naveCarga.repostarCombustible(100000000);
     });
     }
-    
+
 }
